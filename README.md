@@ -36,4 +36,4 @@ Short Form    | Long Form     | Description
 
 
 ### List Of Sites (210 Sites In Total!)
-View the list of sites [here](/res/site-names)
+View the list of sites [here](/res/site-names.txt)
