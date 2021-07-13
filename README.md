@@ -8,7 +8,7 @@
 clone or download the project
 
 ```sh
-git clone https://github.com.cyb3r-g0d/SPY.git
+git clone https://github.com/cyb3r-g0d/SPY.git
 ```
 
 ## Usage
