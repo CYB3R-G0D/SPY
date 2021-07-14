@@ -22,7 +22,6 @@ def scan_sites(username):
             text_file.write(url)
             text_file.write("\n")
             text_file.close()
-            print('[!] Connection reffused to', f"{sites}")
             print("[-] No user found:", f"{sites}")
         # connection reffused to site    
         except urllib.error.URLError as e:
